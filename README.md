@@ -1,4 +1,4 @@
-# hashicorp
+# Vault Ansible Playbook
 Deploy  [Vault](https://www.vaultproject.io) with Ansible.
 Playbook based on the great following repo : https://github.com/AvalancheDev/Hashicorp-Vault-Ansible
 
